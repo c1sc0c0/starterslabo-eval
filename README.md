@@ -68,7 +68,10 @@ Never commit real filled workbooks or real answer files.
 
 ## Related
 
+Index: [starterslabo-skills](https://github.com/c1sc0c0/starterslabo-skills).
+
 - [starterslabo-faq](https://github.com/c1sc0c0/starterslabo-faq) — crawl portal FAQ (login required)
+- [starterslabo-km](https://github.com/c1sc0c0/starterslabo-km) — kilometervergoeding Excel
 
 ## License
 
